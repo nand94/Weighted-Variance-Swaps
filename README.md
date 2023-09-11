@@ -20,7 +20,7 @@ The paper titled "Weighted Variance Swaps Hedge Against Impermanent Loss" by Mas
 - **Extensions**: Additional explorations and extensions based on the original paper's models to delve deeper into the implications of various factors on the hedging cost.
 
 ## Conclusions:
-The paper suggests that liquidity providers can potentially hedge against the risks of impermanent loss using weighted variance swaps. This bridges the gap between traditional finance tools and the emerging challenges in the DeFi space.
+The paper suggests that liquidity providers can potentially hedge against the risks of impermanent loss using weighted variance swaps. This bridges the gap between traditional finance tools and the emerging challenges in the DeFi space. I independently validated those results.
 
 ## Usage:
 To run the simulations and extensions, follow the instructions provided in the respective directories. Ensure you have the necessary dependencies installed and refer to the documentation for detailed explanations of each module.
