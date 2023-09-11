@@ -1,4 +1,4 @@
-# Weighted Variance Swaps Hedge Against Impermanent Loss
+# Weighted Variance Swaps Hedge Against Impermanent Loss (2023) - Analysis
 
 ## Overview:
 The paper titled "Weighted Variance Swaps Hedge Against Impermanent Loss" by Masaaki Fukasawa, Basile Maire, and Marcus Wunsch (2023), published in Quantitative Finance, delves into the challenges faced by liquidity providers in Decentralized Exchanges (DEXes) due to Impermanent Loss. The authors introduce the concept of weighted variance swaps as a potential solution to hedge against this loss.
