@@ -12,7 +12,7 @@ The paper titled "Weighted Variance Swaps Hedge Against Impermanent Loss" by Mas
 
 - **Weighted Variance Swaps**: The paper establishes a relationship between the hedging of Impermanent Loss and financial instruments like variance swaps and gamma swaps. Weighted variance swaps are introduced as an optimal combination of gamma and variance swaps to hedge impermanent loss effectively.
 
-- **Numerical Analysis**: The paper provides numerical examples and simulations to illustrate the concepts, making the theoretical constructs tangible.
+- **Numerical Analysis**: The paper provides numerical examples to illustrate the concepts, making the theoretical constructs tangible.
 
 ## Repository Contents:
 - **Simulations**: Run simulations following the paper methodology using Python to validate the results and further understand the dynamics of the introduced concepts.
