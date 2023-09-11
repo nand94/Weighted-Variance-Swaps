@@ -15,7 +15,7 @@ The paper titled "Weighted Variance Swaps Hedge Against Impermanent Loss" by Mas
 - **Numerical Analysis**: The paper provides numerical examples to illustrate the concepts, making the theoretical constructs tangible.
 
 ## Repository Contents:
-- **Simulations**: Run simulations following the paper methodology using Python to validate the results and further understand the dynamics of the introduced concepts.
+- **Simulations**: I run simulations following the paper methodology using Python to validate the results and further understand the dynamics of the introduced concepts.
   
 - **Extensions**: Additional explorations and extensions based on the original paper's models to delve deeper into the implications of various factors on the hedging cost.
 
@@ -23,4 +23,4 @@ The paper titled "Weighted Variance Swaps Hedge Against Impermanent Loss" by Mas
 The paper suggests that liquidity providers can potentially hedge against the risks of impermanent loss using weighted variance swaps. This bridges the gap between traditional finance tools and the emerging challenges in the DeFi space. I independently validated those results.
 
 ## Usage:
-To run the simulations and extensions, follow the instructions provided in the respective directories. Ensure you have the necessary dependencies installed and refer to the documentation for detailed explanations of each module.
+To run the simulations and extensions, run the scripts provided in the respective directories. Ensure you have the necessary dependencies installed and refer to the documentation for detailed explanations of each module.
