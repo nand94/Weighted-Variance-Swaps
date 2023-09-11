@@ -1,7 +1,7 @@
 # Weighted Variance Swaps Hedge Against Impermanent Loss
 
 ## Overview:
-The paper titled "Weighted Variance Swaps Hedge Against Impermanent Loss" by Masaaki Fukasawa, Basile Maire, and Marcus Wunsch, published in Quantitative Finance, delves into the challenges faced by liquidity providers in Decentralized Exchanges (DEXes) due to Impermanent Loss. The authors introduce the concept of weighted variance swaps as a potential solution to hedge against this loss.
+The paper titled "Weighted Variance Swaps Hedge Against Impermanent Loss" by Masaaki Fukasawa, Basile Maire, and Marcus Wunsch (2023), published in Quantitative Finance, delves into the challenges faced by liquidity providers in Decentralized Exchanges (DEXes) due to Impermanent Loss. The authors introduce the concept of weighted variance swaps as a potential solution to hedge against this loss.
 
 ## Key Concepts:
 - **Decentralized Exchanges (DEXes)**: DEXes allow users to trade directly using smart contracts, eliminating the need for a central counterparty. Automated Market Makers (AMMs) determine the price for asset swaps, and liquidity providers deposit assets into liquidity pools for traders to use.
